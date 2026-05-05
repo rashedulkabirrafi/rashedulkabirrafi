@@ -15,4 +15,3 @@ Data Analyst and Computer Science major with a minor in Political Studies, focus
 ---
 [![](https://komarev.com/ghpvc/?username=rashedulkabirrafi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -15,9 +15,42 @@
 
 - 📊 Data Analyst at **CAP Ltd**, Dhaka: campaign and market analytics, reporting sites and web apps.
 - 🎓 BSc Computer Science (minor in Political Studies) at **BRAC University**, graduating 2027.
-- 🛠️ Freelance web and app developer since 2023, working with clients anywhere.
+- 🛠️ Freelance web and app developer since 2023, 20+ client builds, working with clients anywhere.
 - 🔬 Research interests: computational social science, text-as-data, digital governance.
 - 📄 *Measuring Policy Diffusion with Temporal Graphs*, Undergraduate Research Journal, 2026.
+
+## Services
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · Websites &amp; stores</h3>
+      Custom sites and e-commerce that hold up in production.<br><br>
+      • Next.js &amp; headless builds<br>
+      • WordPress &amp; WooCommerce<br>
+      • Shopify (Liquid, OS 2.0)<br>
+      • Laravel / PHP
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · Apps &amp; platforms</h3>
+      Products with real accounts, data and payments behind them.<br><br>
+      • SaaS products<br>
+      • MERN stack web apps<br>
+      • Mobile apps (React Native)<br>
+      • Admin panels &amp; custom CMS
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · Social media &amp; data</h3>
+      Analysis that ends in a decision, not a spreadsheet.<br><br>
+      • Engagement, sentiment &amp; competitor tracking<br>
+      • Facebook, Instagram, TikTok, YouTube<br>
+      • Dashboards (Power BI)<br>
+      • Python, pandas, scikit-learn, Scrapy
+    </td>
+  </tr>
+</table>
+
+**How we can work together:** fixed-scope project · monthly retainer · research collaboration. Pay in BDT (bKash, bank) or internationally.
 
 ## Toolkit
 
@@ -61,4 +94,8 @@ More client work, including case studies, lives at **[rashedulkabirrafi.com](htt
 ## Work with me
 
 Available for websites, apps, and data projects. Send a brief and I reply within one to two business days with a scope, a timeline, and a price.
-**[rashedulkabirrafi.com/contact](https://rashedulkabirrafi.com/contact)**
+
+<p align="center">
+  <a href="https://rashedulkabirrafi.com/contact"><img src="https://img.shields.io/badge/Start_a_project-rashedulkabirrafi.com/contact-2563eb?style=for-the-badge" alt="Start a project"></a>
+  <a href="mailto:hello@rashedulkabirrafi.com"><img src="https://img.shields.io/badge/Email_me-111827?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me"></a>
+</p>

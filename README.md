@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://rashedulkabirrafi.com"><img src="https://img.shields.io/badge/Portfolio-rashedulkabirrafi.com-2563eb?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/rashedulkabirrafi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hello@rashedulkabirrafi.com"><img src="https://img.shields.io/badge/Email-hello@rashedulkabirrafi.com-111827?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://rashedulkabirrafi.com"><img src="assets/btn-website.svg" alt="rashedulkabirrafi.com" height="40"></a>
+  <a href="https://linkedin.com/in/rashedulkabirrafi"><img src="assets/btn-linkedin.svg" alt="linkedin.com/in/rashedulkabirrafi" height="40"></a>
+  <a href="mailto:hello@rashedulkabirrafi.com"><img src="assets/btn-email.svg" alt="hello@rashedulkabirrafi.com" height="40"></a>
 </p>
 
 ## About

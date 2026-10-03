@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Rashedul Kabir Rafi, Data Analyst and Full-Stack Developer" width="100%">
+  <img src="assets/banner-typing.svg" alt="Rashedul Kabir Rafi, Data Analyst and Full-Stack Developer" width="100%">
 </p>
 
 <p align="center">
